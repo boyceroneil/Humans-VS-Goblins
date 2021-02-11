@@ -1,0 +1,24 @@
+RoomName: The Room of beginnings
+Number: 1
+Description:
+Description:
+Description:
+Description:
+Exit: West 2
+Exit: East 4
+RoomName: The Room of twilight
+Number: 2
+Description: There's a light
+Description: There is a darkness
+Description: There is a glimor in the darkness towards the East
+Description: There seems to be people towards the west. Where the light lies
+Exit: West 2
+Exit: East 4
+RoomName: The Room of dark
+Number: 3
+Description: Nothing but darkness
+Description: I feel a ery feeling
+Description: I sense something staring at me towards the north
+Description: And I feel something else is coming by the west
+Exit: West 2
+Exit: East 4
